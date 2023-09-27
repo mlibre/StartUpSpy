@@ -1,7 +1,5 @@
 # StartupSpy 🚀
 
-![Spy Icon](spy-icon.png)
-
 `StartupSpy` is a handy Bash script that provides a comprehensive overview of startup and initialization files, services, and configurations on a Linux system. It's a valuable tool for both Linux administrators and enthusiasts who want to gain insights into what's happening under the hood during system startup.
 
 ## Features
